@@ -99,4 +99,4 @@ client.on('message',async message => {
 });
 
 
-client.login('NTM3NTUxNjc5Njg0NDc2OTI4.D3LCLw.pPdY28vrGYWoE7Xe5l2xTllwS1o');
+client.login(process.env.BOT_TOKEN);
